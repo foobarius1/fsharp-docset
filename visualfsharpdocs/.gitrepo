@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:MicrosoftDocs/visualfsharpdocs.git
+	branch = master
+	commit = 381ffd69275e55d84d5512cac5582e28a27db3f3
+	parent = bdbf67896f4a035236a730c5cb3ecd1bf47d0004
+	cmdver = 0.3.1
